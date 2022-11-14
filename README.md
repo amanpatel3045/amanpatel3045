@@ -114,7 +114,7 @@
 <p>
 <a href="https://github.com/amanpatel3045"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabhSinghRbz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanpatel3045&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -130,7 +130,7 @@
 <!-- GitHub Cup's   -->
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=SaurabhSinghRbz&theme=vue" alt=""/> </p>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaurabhSinghRbz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amanpatel3045&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <hr clear="both">
 
